@@ -1,0 +1,11 @@
+Algorithme nombre;
+
+var:
+ 	01: entier;    
+Début:
+	Repéter;
+	afficher "entrer un nombre";
+	saisir 01;
+	jusqu'à ((01>=1)AND(01<=3))
+FIN
+	
