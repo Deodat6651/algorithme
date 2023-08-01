@@ -1,0 +1,15 @@
+Algorithme minimum;
+
+Var:
+	moyenne (1,10):tableau de réels;
+	i: entiers;
+	min: réel;
+Début:
+	min<== moyenne(1);
+	pour i==>1 à 10 Pas de 1;
+	 si min > moyenne (i) alors ;
+	 min <== moyenne (i);
+	 finsi
+        fin pour
+	 ecrire "le minimum est": min;
+FIN
