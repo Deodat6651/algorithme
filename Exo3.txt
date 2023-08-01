@@ -1,0 +1,13 @@
+Algorithme Nombre;
+
+Var:
+	c,n: entiers;
+Début:
+	ecrire "entrer un nombre";
+	lire "n";
+	 c <== 1;
+	tant que c<=10 faire;
+	ecrire le nombre suivant est: "n+c";
+	 c<== c+1;
+	fin tant que
+FIN
