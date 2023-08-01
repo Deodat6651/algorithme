@@ -1,0 +1,10 @@
+Agorithme Somme;
+
+Var:
+	tab1(1;5); tab2(1;5); tab(1;5): tab d'entiers;
+	i: entier;
+Début
+	Pour i ==>1;5
+	tab3 (1) <==tab1 (1), tab 1 (1);
+	finpour
+FIN
