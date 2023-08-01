@@ -1,0 +1,17 @@
+Algorithme nombre;
+
+Var:
+	n: entiers;
+Début:
+	Repéter
+	 écrire "entrez un nombre";
+	lire "n";
+	  si n>20 alors:
+	   ecrire "Plus petit";
+	  sinin si n<10 alors;
+	   ecrire "Plus grand";
+	  sinon 
+	   ecrire "Bravo! nombre comprise entre 10 et 20";
+	  finsi
+	jusqu'à (n>=10)AND(n<=20)
+FIN
